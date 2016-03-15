@@ -2,7 +2,7 @@
 
 Node is required with ES6 support, so for example version v5.8.0 would do it.
 
-To assemble js run: gulp (so you have to have gulp bin available available in PATH) 
+To assemble js run: gulp (so you have to have gulp bin available in PATH) 
 
 Redis is needed for storing task list (in hash structure), so to run app have redis running on standard port
 
